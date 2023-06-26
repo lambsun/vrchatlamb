@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: 週刊VRChat向け商品トレンドランキング
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ url: "https://lambsun.github.io" # the base hostname & protocol for your site, e
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: aaaaaaaa # add your name
+author: LAMBsun # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: aaaaaaaaaa # add description
 social-twitter: vrc_products # add your Twitter handle
