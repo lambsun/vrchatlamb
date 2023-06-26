@@ -6,13 +6,13 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/vrchatlamb" # the subpath of your site, e.g. /blog
 url: "https://lambsun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: vrc_products #if your site has a twitter account, enter it here
 
 # Author Settings
-author: LAMBsun # add your name
+author: 週刊VRChat向け商品トレンドランキング # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: aaaaaaaaaa # add description
-social-twitter: vrc_products # add your Twitter handle
+about-author: Boothで発売されたVRChat向け新着商品をランキング化して毎週月曜日にお届けします。 Made by @LAMBsunsun Design by @qiwdu # add description
+social-twitter:  vrc_products# add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
