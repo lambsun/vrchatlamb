@@ -7,17 +7,42 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+クリエイターマーケット「[BOOTH](https://booth.pm/ja)」では、毎日たくさんのアバターや服がソーシャルVRプラットフォーム「VRChat」のために出品されています。BOOTHには、日常の生活に不可欠な「3Dキャラクター（アバター）」や、「3Dアパレル・アクセサリー」を通じてそのスタイルを楽しむ商品、さらに「3D風景・ワールド」などのVRChatのワールド政策に便利なアイテム、そしてUnityの操作を簡単にするための拡張ツールやアバター関連のギミックなど、VRChatでのクリエイティブな活動をさらに魅力的にする多種多様なアイテムが揃っています。
 
-### Church-key blog messenger bag
+この記事では、「BOOTH」のVRChat向けのタグ付き商品に対するトレンドを独自集計。調査期間中に発売された商品の中で、発売後の1週間で最も「いいね」を受けた新商品をランキング形式でまとめました。今回は、6月4日から6月10日までの期間で得られたデータを元に、トップ10商品を皆様にご紹介します。
+
+## 10位：【複数アバター対応】RoseMariee
+
+**発売日：** 2023/06/04  
+**獲得いいね数：** 815  
+[Booth販売ページ](#)
 
 ![My image](https://booth.pximg.net/c/620x620/ef673f01-4568-4823-bbd7-2ba964c635f0/i/4869014/817c6742-50c6-4bf0-9619-a7f3cfa1b4b8_base_resized.jpg)
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
+**Made by：** フジヤマロマンス
 
-### Pour-over blue bottle woke listicle
+4週間ぶりの2回目のランクイン。3D衣装・装飾品などを取り扱う。過去の作品に○○・○○など。
 
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
+## 10位：【複数アバター対応】RoseMariee
 
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+**発売日：** 2023/06/04  
+**獲得いいね数：** 815  
+[Booth販売ページ](#)
+
+![My image](https://booth.pximg.net/c/620x620/ef673f01-4568-4823-bbd7-2ba964c635f0/i/4869014/817c6742-50c6-4bf0-9619-a7f3cfa1b4b8_base_resized.jpg)
+
+**Made by：** フジヤマロマンス
+
+4週間ぶりの2回目のランクイン。3D衣装・装飾品などを取り扱う。過去の作品に○○・○○など。
+
+## 10位：【複数アバター対応】RoseMariee
+
+**発売日：** 2023/06/04  
+**獲得いいね数：** 815  
+[Booth販売ページ](#)
+
+![My image](https://booth.pximg.net/c/620x620/ef673f01-4568-4823-bbd7-2ba964c635f0/i/4869014/817c6742-50c6-4bf0-9619-a7f3cfa1b4b8_base_resized.jpg)
+
+**Made by：** フジヤマロマンス
+
+4週間ぶりの2回目のランクイン。3D衣装・装飾品などを取り扱う。過去の作品に○○・○○など。
