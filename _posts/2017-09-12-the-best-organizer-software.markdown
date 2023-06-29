@@ -3,7 +3,7 @@ layout: post
 title: 週刊VRChat向け商品トレンドランキング6月4日号
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: logo_6000_6000.png # Add image post (optional)
+img: logo_10667_6000.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
