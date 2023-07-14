@@ -1,0 +1,125 @@
+---
+layout: post
+title: 週刊VRChat向け商品トレンド2023年06月26日号
+date: 2023-07-15 01:52:40 +0900
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: logo_10667_6000.png # Add image post (optional)
+tags: [WeekTrend] # add tag
+---
+
+クリエイターマーケット「[BOOTH](https://booth.pm/ja)」では、毎日たくさんのアバターや服がソーシャルVRプラットフォーム「VRChat」のために出品されています。BOOTHには、日常の生活に不可欠な「3Dキャラクター（アバター）」や、「3Dアパレル・アクセサリー」を通じてそのスタイルを楽しむ商品、さらに「3D風景・ワールド」などのVRChatのワールド政策に便利なアイテム、そしてUnityの操作を簡単にするための拡張ツールやアバター関連のギミックなど、VRChatでのクリエイティブな活動をさらに魅力的にする多種多様なアイテムが揃っています。
+
+この記事では、「BOOTH」のVRChat向けのタグ付き商品に対するトレンドを独自集計。
+調査期間中に発売された商品の中で、発売後の1週間で急上昇した新商品をまとめました。
+今回は、2023年06月26日から2023年07月02日までの期間で得られたデータを元に、10商品を皆様にご紹介します。
+
+
+---
+## 【6アバター対応】猟【衣装】
+
+発売日：2023-06-30
+
+[Booth販売ページ](https://booth.pm/ja/items/4896086)
+
+![My image](https://booth.pximg.net/c/620x620/f783e2bb-173c-43f6-ac50-e60a54efa40a/i/4896086/15d7765b-2be1-4c20-b846-7afd4dfd82ec_base_resized.jpg)
+
+*Made by [梅〆](https://kasuyamei.booth.pm)*
+
+---
+## 【3D衣装モデル】 Rosé gothic (for Moe, Shinra, Kikyo, Selestia)
+
+発売日：2023-06-29
+
+[Booth販売ページ](https://booth.pm/ja/items/4892268)
+
+![My image](https://booth.pximg.net/c/620x620/b4dcc0ab-838f-4053-8083-2d58874b213c/i/4892268/feac3b95-99b3-48ee-8f6a-36af51650612_base_resized.jpg)
+
+*Made by [ROSI atelier](https://happyrosi.booth.pm)*
+
+---
+## ISHTAR LIBERALIS / Biblio Factlium 01「PHILOSOPHIA」2.02【複数アバター対応衣装】（3Dモデル）
+
+発売日：2023-06-29
+
+[Booth販売ページ](https://booth.pm/ja/items/4867558)
+
+![My image](https://booth.pximg.net/c/620x620/5b222c69-406e-4f86-8152-f735e570ffce/i/4867558/a8825715-5d42-42e9-9054-1b25be475d45_base_resized.jpg)
+
+*Made by [ISHTAR LIBERALIS](https://ishtar.booth.pm)*
+
+---
+## マッシュルームwithウルフ
+
+発売日：2023-06-27
+
+[Booth販売ページ](https://booth.pm/ja/items/4888756)
+
+![My image](https://booth.pximg.net/c/620x620/40d9c78c-b945-42f8-8bde-6199858d5c0f/i/4888756/321fba61-36da-4cd0-9b5d-af5eef34aedf_base_resized.jpg)
+
+*Made by [みかんずめいど](https://mikanhouse.booth.pm)*
+
+---
+## 【300円オフ！】9アバター対応「Furioso」
+
+発売日：2023-06-29
+
+[Booth販売ページ](https://booth.pm/ja/items/4894149)
+
+![My image](https://booth.pximg.net/c/620x620/2b252a6b-baf5-4f89-a925-5487649661c3/i/4894149/5a56f282-d78b-412f-b3ba-6ee6c65e695d_base_resized.jpg)
+
+*Made by [こあられのアトリエ](https://koarare-atelier.booth.pm)*
+
+---
+## さたにあ式タバコギミック【Modular Avatar対応】　#さたにあ式タバコ
+
+発売日：2023-06-28
+
+[Booth販売ページ](https://booth.pm/ja/items/4835743)
+
+![My image](https://booth.pximg.net/c/620x620/d48aff76-6ba4-4edc-aa70-2420b9eaf360/i/4835743/6c120da4-07aa-4f55-95a8-fb078cc57c19_base_resized.jpg)
+
+*Made by [さたにあしょっぴんぐ](https://saturnianshop.booth.pm)*
+
+---
+## 【くうた-Kuuta-】オリジナル3Dモデル #Kuuta3D
+
+発売日：2023-07-02
+
+[Booth販売ページ](https://booth.pm/ja/items/4897493)
+
+![My image](https://booth.pximg.net/c/620x620/b9f5a983-e991-4261-b325-fbeb9a9ee89e/i/4897493/9b0f6f1e-e318-4a01-adb7-c25d2a405da5_base_resized.jpg)
+
+*Made by [ほとぎ屋](https://hotogiya.booth.pm)*
+
+---
+## [PB]~7月6日 セール中 ▶3アバター対応◀ Brayton
+
+発売日：2023-06-29
+
+[Booth販売ページ](https://booth.pm/ja/items/4893582)
+
+![My image](https://booth.pximg.net/c/620x620/01031b78-5e76-4492-acda-5dfe5475171d/i/4893582/4e23ad7e-11cd-4399-8d4b-9fcbca9a3729_base_resized.jpg)
+
+*Made by [KingSoap](https://kingsoap.booth.pm)*
+
+---
+## #EXTENSIONCLOTHING 『TRACK MAID ; TECH OVERRIDE』セール中💜
+
+発売日：2023-06-30
+
+[Booth販売ページ](https://booth.pm/ja/items/4896660)
+
+![My image](https://booth.pximg.net/c/620x620/87b70515-e32e-4a2e-bf41-317cf2c2177c/i/4896660/7ab76633-0381-40e5-8f9f-8b3ef1a6edee_base_resized.jpg)
+
+*Made by [EXTENSION CLOTHING](https://extension.booth.pm)*
+
+---
+## [無料] Avatar Optimizer
+
+発売日：2023-06-27
+
+[Booth販売ページ](https://booth.pm/ja/items/4885109)
+
+![My image](https://booth.pximg.net/c/620x620/295ad16c-2a77-48d8-8fdc-e988a157b6a9/i/4885109/39a0a87c-f575-4ca0-a33b-796582df2bb2_base_resized.jpg)
+
+*Made by [AvatarOptimizer-1.x.x](https://anatawa12.booth.pm)*
