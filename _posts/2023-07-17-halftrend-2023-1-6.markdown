@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 【人気アバター１００作品で振り返る】2023年上半期VRChatアバタートレンド
+title: ~人気アバター１００作品で振り返る~2023年上半期VRChatアバタートレンド
 date: 2023-07-17 18:24:41 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: logo_10667_6000.png # Add image post (optional)
-tags: [article] # add tag
+tags: [WeekTrend] # add tag
 ---
 
 クリエイターマーケット「[BOOTH](https://booth.pm/ja)」では、毎日たくさんのアバターがソーシャルVRプラットフォーム「VRChat」のために出品されています。アバターは、私たちがVRChatでの生活を楽しむための自己表現の手段で、その存在は欠かせないものとなっています。
 
 今回の記事では、2023年上半期（1月から6月）に発売されたVRChat向けアバター1136作品の中から、発売一週間後の「いいね」の数が特に多かった100作品をピックアップし、その発売日とともに振り返ります。2023年上半期にどのようなアバタートレンドが形成され、進化してきたのかを見ていくことで、各アバターの特徴や発売時の背景を考察する楽しみを感じていただければ幸いです。
+
 
 ---
 ## オリジナル3Dモデル　　　『Erva』エルヴァ(PC版)
