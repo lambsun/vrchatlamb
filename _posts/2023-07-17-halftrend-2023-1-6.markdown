@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ~人気アバター１００作品で振り返る~2023年上半期VRChatアバタートレンド
+title: 人気アバター100作品で振り返る 2023年上半期VRChatアバタートレンド
 date: 2023-07-17 18:24:41 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: logo_10667_6000.png # Add image post (optional)
