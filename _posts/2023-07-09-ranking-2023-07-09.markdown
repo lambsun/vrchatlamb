@@ -1,0 +1,125 @@
+---
+layout: post
+title: 週刊VRChat向け商品トレンド2023年07月09日号
+date: 2023-07-22 11:25:54 +0900
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: logo_10667_6000.png # Add image post (optional)
+tags: [WeekTrend] # add tag
+---
+
+クリエイターマーケット「[BOOTH](https://booth.pm/ja)」では、毎日たくさんのアバターや服がソーシャルVRプラットフォーム「VRChat」のために出品されています。BOOTHには、日常の生活に不可欠な「3Dキャラクター（アバター）」や、「3Dアパレル・アクセサリー」を通じてそのスタイルを楽しむ商品、さらに「3D風景・ワールド」などのVRChatのワールド政策に便利なアイテム、そしてUnityの操作を簡単にするための拡張ツールやアバター関連のギミックなど、VRChatでのクリエイティブな活動をさらに魅力的にする多種多様なアイテムが揃っています。
+
+この記事では、「BOOTH」のVRChat向けのタグ付き商品に対するトレンドを独自集計。
+調査期間中に発売された商品の中で、発売後に急上昇した新商品をまとめました。
+今回は、2023年07月09日から2023年07月15日までの期間で得られたデータを元に、10商品を皆様にご紹介します。
+
+
+---
+## Fairy Twin - フェアリーツイン-【PB対応】
+
+発売日：2023-07-14
+
+[Booth販売ページ](https://booth.pm/ja/items/4927845)
+
+![My image](https://booth.pximg.net/c/620x620/35cb5ba1-18f5-443e-ac16-6b762cf94319/i/4927845/05124f9d-79eb-4b56-b964-f47d1168e050_base_resized.jpg)
+
+*Made by [ふぃおなじるし - FIONA JIRUSHI -](https://fiona.booth.pm)*
+
+---
+## オリジナル3Dモデル『ルゼブル』
+
+発売日：2023-07-09
+
+[Booth販売ページ](https://booth.pm/ja/items/4887691)
+
+![My image](https://booth.pximg.net/c/620x620/eb3f279b-e942-4aca-8e09-926a544a9947/i/4887691/8c55513e-6659-41b9-b246-a80f287b8da3_base_resized.jpg)
+
+*Made by [追憶の書架](https://shisyo.booth.pm)*
+
+---
+## ✨順次発売🎁企画中✨21アバター対応 地雷めるてぃ浴衣
+
+発売日：2023-07-14
+
+[Booth販売ページ](https://booth.pm/ja/items/4911652)
+
+![My image](https://booth.pximg.net/c/620x620/c3f76366-e1de-47a7-8415-d476cdd67568/i/4911652/5eddbc75-436c-41ae-8070-abf66f3d7124_base_resized.jpg)
+
+*Made by [Add+Re:collection](https://addrecollection.booth.pm)*
+
+---
+## 【セール中】 バイオレンスラビット #ViolenceRabbit 【複数アバター対応】
+
+発売日：2023-07-11
+
+[Booth販売ページ](https://booth.pm/ja/items/4915097)
+
+![My image](https://booth.pximg.net/c/620x620/353a00f1-15b2-4333-90a2-0aaa36e0220c/i/4915097/3e54ff5b-e1c0-4333-8102-a62e1a59e64c_base_resized.jpg)
+
+*Made by [#あいかわらぼ](https://aikawa2.booth.pm)*
+
+---
+## 3Dアバター『ジェラス / GELAS』
+
+発売日：2023-07-10
+
+[Booth販売ページ](https://booth.pm/ja/items/4918616)
+
+![My image](https://booth.pximg.net/c/620x620/955c1fb4-b8ba-433c-9538-7b1b1354797f/i/4918616/13e20c38-be84-41b3-974f-9b22dba395d8_base_resized.jpg)
+
+*Made by [AugmentedDolls](https://augmented-dolls.booth.pm)*
+
+---
+## 「PHANTOM VENUS」ファントム・ヴィーナス　（複数アバター対応）
+
+発売日：2023-07-14
+
+[Booth販売ページ](https://booth.pm/ja/items/4923771)
+
+![My image](https://booth.pximg.net/c/620x620/85710663-308f-49eb-b005-5d0c07c77a63/i/4923771/688ce667-b45f-476f-92f0-d46f8fb8ec2b_base_resized.jpg)
+
+*Made by [SilverSpace](https://silverspace.booth.pm)*
+
+---
+## 【3Dアクセサリー】01 煙管 <Smoke Pipe>
+
+発売日：2023-07-11
+
+[Booth販売ページ](https://booth.pm/ja/items/4921136)
+
+![My image](https://booth.pximg.net/c/620x620/de9ac79a-d2ba-4cc5-a4c4-002da7a40795/i/4921136/da1254e6-2ac3-40ce-8a4b-489d383663bc_base_resized.jpg)
+
+*Made by [Keenoo](https://keenooshop.booth.pm)*
+
+---
+## あやしげハイポニー【3Dヘアモデル】
+
+発売日：2023-07-14
+
+[Booth販売ページ](https://booth.pm/ja/items/4909173)
+
+![My image](https://booth.pximg.net/c/620x620/04fb9bb1-3453-458f-bea3-43f284ed8023/i/4909173/086c31c6-779e-427c-a21f-b5178f1a9558_base_resized.jpg)
+
+*Made by [RcoC](https://rcoc.booth.pm)*
+
+---
+## 深淵の外交官(Diplomat Of The Abyss)[萌Moe]
+
+発売日：2023-07-12
+
+[Booth販売ページ](https://booth.pm/ja/items/4924712)
+
+![My image](https://booth.pximg.net/c/620x620/0a78a3b2-5652-4293-b9e3-1105adf9cc64/i/4924712/f8676665-42fa-4262-816a-ee0ece5b1eb0_base_resized.jpg)
+
+*Made by [CyberCritter](https://cybercritter.booth.pm)*
+
+---
+## 片目ショートヘア
+
+発売日：2023-07-12
+
+[Booth販売ページ](https://booth.pm/ja/items/4924687)
+
+![My image](https://booth.pximg.net/c/620x620/5b6f1a07-833e-4d67-818f-e32612e474ca/i/4924687/eabde72d-e75c-40b5-b3af-b98b42faa03c_base_resized.jpg)
+
+*Made by [Li-ne_Shop](https://li-ne.booth.pm)*
