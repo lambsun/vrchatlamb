@@ -1,0 +1,125 @@
+---
+layout: post
+title: 週刊VRChat向け商品トレンド2023年07月16日号
+date: 2023-07-29 11:26:31 +0900
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: logo_10667_6000.png # Add image post (optional)
+tags: [WeekTrend] # add tag
+---
+
+クリエイターマーケット「[BOOTH](https://booth.pm/ja)」では、毎日たくさんのアバターや服がソーシャルVRプラットフォーム「VRChat」のために出品されています。BOOTHには、日常の生活に不可欠な「3Dキャラクター（アバター）」や、「3Dアパレル・アクセサリー」を通じてそのスタイルを楽しむ商品、さらに「3D風景・ワールド」などのVRChatのワールド政策に便利なアイテム、そしてUnityの操作を簡単にするための拡張ツールやアバター関連のギミックなど、VRChatでのクリエイティブな活動をさらに魅力的にする多種多様なアイテムが揃っています。
+
+この記事では、「BOOTH」のVRChat向けのタグ付き商品に対するトレンドを独自集計。
+調査期間中に発売された商品の中で、発売後に急上昇した新商品をまとめました。
+今回は、2023年07月16日から2023年07月22日までの期間で得られたデータを元に、10商品を皆様にご紹介します。
+
+
+---
+## 【期間限定Free】Leg Poach ／ 7,000 Followers! Aniversary Gift
+
+発売日：2023-07-17
+
+[Booth販売ページ](https://booth.pm/ja/items/4935826)
+
+![My image](https://booth.pximg.net/c/620x620/1ed0371c-24df-42e4-9b32-f9d27bdba98f/i/4935826/15ecef1a-ee6f-479d-aa73-a06fddc22308_base_resized.jpg)
+
+*Made by [ALICE_7000_followers_aniversary_LegPoach](https://aliceinshelter.booth.pm)*
+
+---
+## 風鈴レモネードHair
+
+発売日：2023-07-20
+
+[Booth販売ページ](https://booth.pm/ja/items/4942005)
+
+![My image](https://booth.pximg.net/c/620x620/40d9c78c-b945-42f8-8bde-6199858d5c0f/i/4942005/bf13f75b-fa0f-467c-b18e-488e5c7e223d_base_resized.jpg)
+
+*Made by [みかんずめいど](https://mikanhouse.booth.pm)*
+
+---
+## 駐車場でよく見るやたら足の速い鳥【VRChatワールド用ギミック】
+
+発売日：2023-07-17
+
+[Booth販売ページ](https://booth.pm/ja/items/4880443)
+
+![My image](https://booth.pximg.net/c/620x620/3d7f913e-bd04-42f8-b907-db64234452d7/i/4880443/7b2bfa30-719b-49f4-b8a7-2bb5956c0d5d_base_resized.jpg)
+
+*Made by [ねむ](https://nemu90kww.booth.pm)*
+
+---
+## 【無料版有】みかん製ポーズ集第二弾
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/4944399)
+
+![My image](https://booth.pximg.net/c/620x620/40d9c78c-b945-42f8-8bde-6199858d5c0f/i/4944399/41b2a4e4-a120-4b42-b172-a3e13068e159_base_resized.jpg)
+
+*Made by [FREEMIKANseiPosesyuSecond](https://mikanhouse.booth.pm)*
+
+---
+## 複数アバター対応『路地裏メイド』
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/4932980)
+
+![My image](https://booth.pximg.net/c/620x620/529e3c2a-f3cc-44ab-abaa-2a73bccba2a0/i/4932980/231c5343-2eda-4c34-a33d-a6460d94dfce_base_resized.jpg)
+
+*Made by [OKITUNELAND](https://northfox22.booth.pm)*
+
+---
+## LotusChina（５アバター対応）
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/4945129)
+
+![My image](https://booth.pximg.net/c/620x620/08357aeb-6d43-4a75-af64-c1c7e2506670/i/4945129/8ef73fdc-d9d5-4f69-a163-91f5d45f2899_base_resized.jpg)
+
+*Made by [asapidock](https://asapidock.booth.pm)*
+
+---
+## 【4アバター対応】🎤~7/25 SALE中🎤 Statice
+
+発売日：2023-07-18
+
+[Booth販売ページ](https://booth.pm/ja/items/4938150)
+
+![My image](https://booth.pximg.net/c/620x620/b1574cea-1837-4fdb-9654-27cc43c52f3a/i/4938150/dd4791ce-905f-4ff3-95fb-5c618717c17a_base_resized.jpg)
+
+*Made by [cherry neru](https://neru0606.booth.pm)*
+
+---
+## 深淵の外交官(Diplomat Of The Abyss)[森羅Shinra]
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/4945119)
+
+![My image](https://booth.pximg.net/c/620x620/0a78a3b2-5652-4293-b9e3-1105adf9cc64/i/4945119/40b6d4ae-c35b-49f0-8987-7b931d475f1d_base_resized.jpg)
+
+*Made by [CyberCritter](https://cybercritter.booth.pm)*
+
+---
+## オリジナル3Dモデル「フラクチャー」~FRACTURE~ VRM+VRC対応
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/2072681)
+
+![My image](https://booth.pximg.net/c/620x620/cc1b3a24-e02c-4d76-91f7-399d94ecbde4/i/2072681/df437c10-12f5-4c73-b184-b49cf54e19d3_base_resized.jpg)
+
+*Made by [Ke Mao 3D](https://mvjagaimo.booth.pm)*
+
+---
+## 【TYPE_C】NecoSummer
+
+発売日：2023-07-21
+
+[Booth販売ページ](https://booth.pm/ja/items/4938806)
+
+![My image](https://booth.pximg.net/c/620x620/4e6e372d-f626-416b-beec-b0f50d2c2743/i/4938806/0ac88470-562c-4341-86dc-a5001dc803cd_base_resized.jpg)
+
+*Made by [QuQu](https://sonovr.booth.pm)*
